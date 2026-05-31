@@ -215,7 +215,7 @@ export default function Settings({ settings, onUpdate, onBack, onClearData, onDa
           <img src={appIcon} alt="BurnRate" className="w-10 h-10 rounded-[12px]" draggable={false} />
           <div className="text-center">
             <div className="text-[13px] font-semibold text-text-primary tracking-tight">BurnRate</div>
-            <div className="text-[11px] text-text-quaternary">v0.1.0</div>
+            <div className="text-[11px] text-text-quaternary">v0.2.0</div>
           </div>
           <div className="flex items-center gap-3 mt-0.5">
             <button
